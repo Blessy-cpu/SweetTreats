@@ -1,0 +1,6 @@
+{
+  "name": "DolceVita - Western Desserts Recipe App",
+  "description": "A trilingual Western desserts recipe mobile & web app (English, Hindi, Telugu) featuring Flutter Material 3 architecture, voice commands, cooking timers, ingredient substitutions, meal planner, shopping list, and full IITM Pravartak/KHIT Flutter project specifications.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
